@@ -1,7 +1,7 @@
 #include <iostream>
 using namespaces std;
 int main() {
-    int no1=4, no2=2
+    int no1=4, no2=2;
 int sum;
 sum=no1 +no3;
 cout<<sum;
